@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/share_contact_info_menu_action"
+        android:orderInCategory="100"
+        android:title="@string/share_contact_information_label"
+        app:showAsAction="never"
+        tools:context=".activity.UserActivity" />
+
+    <item
+        android:id="@+id/share_photo_menu_action"
+        android:orderInCategory="100"
+        android:title="@string/share_photo_label"
+        app:showAsAction="never"
+        tools:context=".activity.UserActivity" />
+</menu>

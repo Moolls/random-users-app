@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Random Users</string>
+    <string name="loading_button">LOAD USERS</string>
+    <string name="loading_button_loading">LOADING…</string>
+    <string name="full_name_pattern">%1$s %2$s</string>
+    <string name="call_button_text">CALL</string>
+    <string name="email_button_text">EMAIL</string>
+    <string name="phone_label">Phone:</string>
+    <string name="email_label">Email:</string>
+    <string name="user_national_label">National:</string>
+    <string name="city_label">City:</string>
+    <string name="address_label">Address:</string>
+    <string name="user_photo_description">User photo</string>
+    <string name="share_title">Share contact information</string>
+    <string name="share_contact_information_label">Share contact information</string>
+    <string name="share_photo_label">Share photo</string>
+</resources>
